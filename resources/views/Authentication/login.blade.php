@@ -14,6 +14,7 @@
   <style>
       section {
         background: rgb(2,0,36);
+        background-image: url('');
         background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(47,109,100,1) 35%, rgba(0,212,255,1) 100%);
    }
     </style>
